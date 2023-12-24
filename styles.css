@@ -34,6 +34,10 @@ nav h1 {
     font-style: italic;
 }
 
+nav a {
+    text-decoration: none;
+}
+
 p {
     margin: auto 0;
     padding: 0;
